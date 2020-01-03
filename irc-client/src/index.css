@@ -1,0 +1,43 @@
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.centered-img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.vh-separator {
+    height: 5vh;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(27, 27, 27, 0.808);
+}
+
+.modal {
+    position: absolute;
+    display: block;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+    overflow: auto;
+    outline: none;
+    padding: 50px;
+}
