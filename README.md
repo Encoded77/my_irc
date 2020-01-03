@@ -1,1 +1,3 @@
-J'ai fini le projet 
+*My Irc*
+
+A irc webapp made with socket.io & react
